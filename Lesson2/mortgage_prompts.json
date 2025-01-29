@@ -1,0 +1,11 @@
+{
+    "welcome": "Welcome to the Mortgage Calculator",
+    "loan_amount": "Please enter the loan amount in dollars: $",
+    "APR": "Enter the Annual Percentage Rate (APR) in %. For example, for 5% type '5': ",
+    "invalid": "Input is not a valid number. No letters, spaces or negative numbers please.",
+    "loan_duration": "Enter the loan duration in years: ",
+    "free_house": "Great news, your mortage will cost $0! Enjoy your free house.",
+    "zero_time": "It looks like you're paying off the mortgage immediately! Congratulations, there is no interest to be calculated.",
+    "principal_only": "Nice 0% loan! Your monthly payment will be: ",
+    "std_payment": "Your monthly payment will be: "
+}

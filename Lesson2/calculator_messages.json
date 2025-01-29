@@ -1,0 +1,10 @@
+{
+    "welcome": "Welcome to Calculator!",
+    "num1": "Please enter the first number: ",
+    "num2": "Please enter the second number: ",
+    "invalid": "You must enter a valid selection, please re-try...",
+    "operation": "Choose a number for which operation to perform:\n1 - Addition 2 - Subtraction 3 - Multiplication 4 - Division",
+    "escapee": "You have escaped the error handling.",
+    "calculate": "Would you like to do a calculation? Type y/n: ",
+    "goodbye": "Goodbye!"
+  }
