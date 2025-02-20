@@ -18,7 +18,6 @@ print("q10")
 from datetime import date
 year = date.today().year
 
-
 age = int(input("What is your age? "))
 retire = int(input("At what age would you like to retire? "))
 retire_year = retire - age + year
